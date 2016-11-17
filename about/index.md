@@ -4,7 +4,7 @@ type: page
 title: About me
 ---
 
- * **Name:** 姚奕涛
- * **Email:** [simpleyyt@gmail.com](mailto:simpleyyt@gmail.com)
- * **WeiBo:** [摇一摇SimpleLife](http://www.weibo.com/u/1836017133)
- * **Github:** [Simpleyyt](https://github.com/Simpleyyt)
+ * **Name:** felix
+ * **Email:** [felix.zhang@liferay.com](mailto:felix.zhang@liferay.com)
+ * **WeiBo:** [流云傻傻](http://weibo.com/2411994603/profile?topnav=1&wvr=6&is_all=1)
+ * **Github:** [felix3508](https://github.com/felix3508/)
